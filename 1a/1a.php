@@ -168,7 +168,7 @@
 
 </section>
 
-<a class="voltar" href="index.php">← Voltar ao início</a>
+<a class="voltar" href="../index.php">← Voltar ao início</a>
 
 <footer>
     Turma 1A • Back End • 2026

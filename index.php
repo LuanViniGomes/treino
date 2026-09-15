@@ -247,25 +247,25 @@
         <div class="card">
             <div class="numero">01A</div>
             <p>Ambiente de treinamento da turma 1A.</p>
-            <a href="1a.php">Acessar →</a>
+            <a href="1a/1a.php">Acessar →</a>
         </div>
 
         <div class="card">
             <div class="numero">01B</div>
             <p>Ambiente de treinamento da turma 1B.</p>
-            <a href="1b.php">Acessar →</a>
+            <a href="1b/1b.php">Acessar →</a>
         </div>
 
         <div class="card">
             <div class="numero">02A</div>
             <p>Ambiente de treinamento da turma 2A.</p>
-            <a href="2a.php">Acessar →</a>
+            <a href="2a/2a.php">Acessar →</a>
         </div>
 
         <div class="card">
             <div class="numero">02B</div>
             <p>Ambiente de treinamento da turma 2B.</p>
-            <a href="2b.php">Acessar →</a>
+            <a href="2b/2b.php">Acessar →</a>
         </div>
 
     </div>

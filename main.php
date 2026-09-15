@@ -133,7 +133,7 @@
     <h1>⚡ BACK END</h1>
 
     <nav>
-        <a href="index.php">Início</a>
+        <a href="../index.php">Início</a>
     </nav>
 </header>
 
@@ -187,7 +187,7 @@
 
 </section>
 
-<a class="voltar" href="index.php">← Voltar ao início</a>
+<a class="voltar" href="../index.php">← Voltar ao início</a>
 
 <footer>
     Back End Training • 2026

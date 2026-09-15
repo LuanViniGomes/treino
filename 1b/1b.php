@@ -141,7 +141,7 @@
     <h1>⚡ TURMA 1B</h1>
 
     <nav>
-        <a href="index.php">INÍCIO</a>
+        <a href="../index.php">INÍCIO</a>
     </nav>
 </header>
 
@@ -174,7 +174,7 @@
 
 </section>
 
-<a class="voltar" href="index.php">← VOLTAR</a>
+<a class="voltar" href="../index.php">← VOLTAR</a>
 
 <footer>
     TURMA 1B • BACK END • 2026

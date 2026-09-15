@@ -145,7 +145,7 @@
     <h1>2B</h1>
 
     <nav>
-        <a href="index.php">INÍCIO</a>
+        <a href="../index.php">INÍCIO</a>
     </nav>
 </header>
 
@@ -178,7 +178,7 @@
 
 </section>
 
-<a class="voltar" href="index.php">← VOLTAR</a>
+<a class="voltar" href="../index.php">← VOLTAR</a>
 
 <footer>
     2B • BACK END • 2026

@@ -137,7 +137,7 @@
     <h1>🔵 TURMA 2A</h1>
 
     <nav>
-        <a href="index.php">Início</a>
+        <a href="../index.php">Início</a>
     </nav>
 </header>
 
@@ -170,7 +170,7 @@
 
 </section>
 
-<a class="voltar" href="index.php">← Voltar ao início</a>
+<a class="voltar" href="../index.php">← Voltar ao início</a>
 
 <footer>
     Turma 2A • Back End • 2026
